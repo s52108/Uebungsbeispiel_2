@@ -40,9 +40,9 @@ public class DemoApp {
 	
 	public static Person createTestPerson()
 	{
-		String[] firstnames = new String[] {"John", "Max", "Susi", "Georg", "Gerald", "Michael", "Steve", "J�rg", "Sebastian", "Louis", "Thomas", "Tom", "Sandra", "Beate", "Birgit"};
+		String[] firstnames = new String[] {"John", "Max", "Susi", "Georg", "Gerald", "Michael", "Steve", "Jörg", "Sebastian", "Louis", "Thomas", "Tom", "Sandra", "Beate", "Birgit"};
 		String[] lastnames = new String[] {"Muster", "Doe", "Schultz", "Cuevas", "Rhodes", "Mckenzie", "Taylor", "Glenn", "Reilly", "Morris", "Herman", "Beltran", "Swanson", "Roth"};
-		String[] eyeColors = new String[] {"blau", "braun", "gr�n", "gelb"};
+		String[] eyeColors = new String[] {"blau", "braun", "grün", "gelb"};
 		String[] countries = new String[] {"AT", "DE", "CH", "SI"};
 		char[] genders = new char[] {'M', 'F'};
 		
